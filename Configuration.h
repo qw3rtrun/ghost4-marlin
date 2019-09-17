@@ -386,9 +386,9 @@
   // If you are using a pre-configured hotend then you can use one of the value sets by uncommenting it
 
   // ghost4
-#define  DEFAULT_Kp 14.64//16.24
-#define  DEFAULT_Ki 1.01//1.17
-#define  DEFAULT_Kd 53.07//56.21
+#define  DEFAULT_Kp 13.92//16.24
+#define  DEFAULT_Ki 1.13//1.17
+#define  DEFAULT_Kd 43.04//56.21
 
   // MakerGear
   //#define DEFAULT_Kp 7.0
